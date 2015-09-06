@@ -1,0 +1,30 @@
+{
+  "name": "fluxette-thunk",
+  "version": "0.0.1",
+  "description": "Thunk middleware for fluxette.",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edge/fluxette-thunk.git"
+  },
+  "keywords": [
+    "thunk",
+    "middleware",
+    "flux",
+    "fluxette"
+  ],
+  "author": "synchronous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edge/fluxette-thunk/issues"
+  },
+  "homepage": "https://github.com/edge/fluxette-thunk#readme",
+  "devDependencies": {
+    "babel-core": "^5.8.23",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1"
+  }
+}
